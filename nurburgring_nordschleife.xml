@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenDashboard>
+
+	<TrackInformation>nurburgring_nordschleife/track_information.xml</TrackInformation>
+
+	<DynamicData>
+		<File>nurburgring_nordschleife/dynamic_data/cm_audi_r8.csv</File>
+		<SampleTime>10</SampleTime>
+	</DynamicData>
+
+	<VideoData>
+		<File>nurburgring_nordschleife/videos/night/cm_audi_r8_480p_front_view.avi</File>
+		<File>nurburgring_nordschleife/videos/night/cm_audi_r8_480p_back_view.avi</File>
+		<File>nurburgring_nordschleife/videos/night/cm_audi_r8_480p_third_person_view.avi</File>
+	</VideoData>
+
+</OpenDashboard>
